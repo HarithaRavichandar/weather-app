@@ -2,7 +2,7 @@
 
 A sleek and simple weather forecast web app built using **Flask** and the **OpenWeatherMap API**.
 
-![App Screenshot](https://github.com/HarithaRavichandar/weather-app/raw/main/static/screenshot.png) <!-- Replace or remove if no screenshot -->
+![App Screenshot](https://github.com/HarithaRavichandar/weather-app/raw/main/static/Screenshot.png) <!-- Replace or remove if no screenshot -->
 
 ## 🚀 Features
 
