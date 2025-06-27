@@ -2,19 +2,20 @@
 
 A sleek and simple weather forecast web app built using **Flask** and the **OpenWeatherMap API**.
 
-![App Screenshot](https://github.com/HarithaRavichandar/weather-app/raw/main/static/Screenshot.png) <!-- Replace or remove if no screenshot -->
+[🔗 View App Screenshot](https://github.com/your-username/weather-app/raw/main/static/screenshot.png)
+ 
 
-## 🚀 Features
+##  Features
 
-- 🌍 Search weather by **city name**
-- 🌡️ Real-time **temperature**, **description**, and **weather icon**
-- 🕒 Displays **local time** of the city
-- 🎨 Dynamic UI background based on weather
-- 🖥️ Responsive, clean interface
+-  Search weather by **city name**
+-  Real-time **temperature**, **description**, and **weather icon**
+-  Displays **local time** of the city
+-  Dynamic UI background based on weather
+-  Responsive, clean interface
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **Frontend**: HTML, CSS (custom styling)
 - **Backend**: Python, Flask
@@ -23,7 +24,7 @@ A sleek and simple weather forecast web app built using **Flask** and the **Open
 
 ---
 
-## 🔧 Setup & Run Locally
+##  Setup & Run Locally
 
 ### Prerequisites:
 - Python 3.x installed
